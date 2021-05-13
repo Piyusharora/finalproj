@@ -1,0 +1,12 @@
+img{
+    border: BLACK 20px;
+}
+
+p{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+img:hover span{
+    display: block;
+}
