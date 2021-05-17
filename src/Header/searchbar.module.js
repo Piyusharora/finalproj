@@ -7,7 +7,7 @@ import './searchbar.module.css';
 function Searchbar() {
   return (
     <div className="search">
-<h1 className="mt-5">Tagline describing your e-shop</h1>
+<h1 className="mt-5">Best For Your Feet <strong>ShoesHub</strong></h1>
 <form>
       
     

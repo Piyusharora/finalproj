@@ -3,12 +3,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Foot() {
   return (
+     
     <div className="Foot bg-light text-center text-lg-start">
 
 
   <div class="container p-4">
 
-   
+  
   
       <div class="footer">
         
@@ -34,7 +35,7 @@ function Foot() {
   
 
  
-  <div class="p-3">
+  <div class="footer2 p-3">
     ©
     <a class="text-dark" href="#!"> ShoesHub</a>
   </div>

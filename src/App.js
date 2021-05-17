@@ -5,6 +5,7 @@ import Searchbar from './Header/searchbar.module';
 import Navi from './Header/nav.module';
 import Products from './products/products.module';
 import Footer from './Footer/Footer.module';
+//import Pdetails from './products/productdetails.module';
 //import Product from './products/productsdata.module';
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
 <Searchbar></Searchbar>
     
     <Products></Products>
+    
     <Footer></Footer>
      </div>
   );
