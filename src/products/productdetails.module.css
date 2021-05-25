@@ -83,7 +83,29 @@
     padding: 10px 25px;
     margin-top: 15px;
   }
-  
+ 
+.overlay{
+  margin-top: 50%;
+  margin-left: 50%;
+transform: translate(-50%, -50%);
+}
+.fishes
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+    .fish
+    {
+      position: absolute;
+      top: 70px;
+      left: 80px;
+    }
+
+    .overlay2{
+      position: relative; left: 0; top: 0;
+    }
+
   @media (max-width: 500px){
     .thumb{
       height: 50px;
